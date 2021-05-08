@@ -47,4 +47,22 @@ Las categorías más populares de los servicios que ofrece Azure son:
 - Inteligencia Artificial.
 - DevOps.
 
+## Gastos manejados en la nube
+Se clasifican en dos diferentes tipos:
+- **Gastos de capital (CapEx) -** Se refiere a una primera inversión pagada para adquirir una infraestructura física.
+- **Gastos operativos (OpEx) -** Se refiere al pago facturado al momento de aquirir un nuevo servicio, conforme se requiera.
+
+## Estructura organizativa de los recursos en Azure
+*Recursos*  
+No son más que las instancias de los servicios que se pueden adquirir en Azure.  
+
+*Grupos de recursos*  
+Son un conjunto de recursos relacionados en base a ciertas especificaciones determinadas por Azure.
+
+*Suscripciones*  
+Son las agrupaciones de las cuentas creadas por diferentes usuarios.
+
+*Grupos de administración*
+Como su nombre lo dice, se dedican a administrar directivas y acceso de sus respectivas suscripciones a los recursos de Azure.
+
 
