@@ -8,8 +8,8 @@ Con la informática en la nube, se pueden alquilar procesos o almacenamiento de 
 ### Ventajas de la informática en la nube
 - **Confiabilidad:** Otorga una experiencia de usuario continua a pesar de que se presenten posibles errores. 
 - **Escalabilidad:**  
-  Vertical, aumenta la capacidad informática agregando RAM o CPU a una máquina virtual.  
-  Horizontal, aumenta la capacidad informática agregando recursos como máquinas virtuales.
+  *Vertical*, aumenta la capacidad informática agregando RAM o CPU a una máquina virtual.  
+  *Horizontal*, aumenta la capacidad informática agregando recursos como máquinas virtuales.
 - **Elasticidad:** Aplicaciones configurables para que siempre se tengan los recursos que se necesiten.
 - **Agilidad:** Implementación y configuración rápida a medida que cambian las necesidades.
 - **Distribución geográfica:** Implementación en centros de datos en regiones de todo el mundo.
@@ -29,7 +29,7 @@ Con la informática en la nube, se pueden alquilar procesos o almacenamiento de 
 - **Nube privada:** Los recursos son utilizados sólo por determinado grupo de personas, ya sea por una empresa o por alguna organización.
 - **Nube híbrida:** Combina las funciones de la nube pública con la nube privada según las necesidades.
 
-#Azure
+#Azure  
 Azure puede definirse como un conjunto de servicios (más de 100 servicios) en la nube con herramientas útiles para satisfacer nuestras necesidades.
 
 ![Modelos de servicio!](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png)
