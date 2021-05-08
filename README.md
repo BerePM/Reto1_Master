@@ -62,7 +62,7 @@ Son un conjunto de recursos relacionados en base a ciertas especificaciones dete
 *Suscripciones*  
 Son las agrupaciones de las cuentas creadas por diferentes usuarios.
 
-*Grupos de administración*
+*Grupos de administración*  
 Como su nombre lo dice, se dedican a administrar directivas y acceso de sus respectivas suscripciones a los recursos de Azure.
 
 
