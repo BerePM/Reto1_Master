@@ -16,10 +16,35 @@ Con la informática en la nube, se pueden alquilar procesos o almacenamiento de 
 - **Recuperación ante desastres:** Mediante copias de seguridad, replicación de datos y distribución geográfica. 
 
 ## Modelos de servicio en la nube
-- *IaaS (Infraestructura como servicio):* Consiste en la administración y mantenimiento completo del sistema operativo y configuraciones de red.  
-- *PaaS (Plataforma como servicio):* Consiste en la implementación de aplicaciones o algún otro software sin necesidad de preocuparse por la infraestructura.
-- *SaaS (Software como servicio):* Consiste en hacer uso de aplicaciones ya programadas previamente.
+- **IaaS (Infraestructura como servicio):** Consiste en la administración y mantenimiento completo del sistema operativo y configuraciones de red.  
+- **PaaS (Plataforma como servicio):** Consiste en la implementación de aplicaciones o algún otro software sin necesidad de preocuparse por la infraestructura.
+- **SaaS (Software como servicio):** Consiste en hacer uso de aplicaciones ya programadas previamente.
 
 ![Modelos de servicio!](https://www.penso.com.br/wp-content/uploads/2016/02/IaaS-PaaS-e-SaaS1.jpg)
+
+*Informática sin servidor -* Se trata de un término similar a PaaS, pues el desarrollador se enfoca en la lógica y la programación de las aplicaciones mientras que el proveedor de servicios en la nube administra los servidores.
+
+## Modelos de implementación de informática en la nube
+- **Nube pública:** Los servicios se ofrecen a través de internet y están disponibles para toda persona que desee comprarlos o alquilarlos.
+- **Nube privada:** Los recursos son utilizados sólo por determinado grupo de personas, ya sea por una empresa o por alguna organización.
+- **Nube híbrida:** Combina las funciones de la nube pública con la nube privada según las necesidades.
+
+#Azure
+Azure puede definirse como un conjunto de servicios (más de 100 servicios) en la nube con herramientas útiles para satisfacer nuestras necesidades.
+
+![Modelos de servicio!](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png)
+
+## Servicios de Azure
+Las categorías más populares de los servicios que ofrece Azure son:
+- Proceso.
+- Redes.
+- Almacenamiento.
+- Móvil.
+- Bases de datos.
+- Web.
+- Internet de las cosas (IoT).
+- BigData.
+- Inteligencia Artificial.
+- DevOps.
 
 
